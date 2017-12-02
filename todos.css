@@ -1,0 +1,15 @@
+li {
+  border: 2px solid pink;
+}
+
+#special {
+  background-color: yellow;
+}
+
+.completed {
+  text-decoration: line-through;
+}
+
+li:nth-of-type(1)  {
+  background: orange;
+}
